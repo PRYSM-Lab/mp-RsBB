@@ -1,4 +1,4 @@
 pooling_network library from https://github.com/cog-imperial/pooling-network
-pyomo
-ppopt
+pyomo v.1.3.9
+ppopt v.1.6.0
 pickle
