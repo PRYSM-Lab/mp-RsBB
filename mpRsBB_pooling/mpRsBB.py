@@ -1,6 +1,6 @@
 import pyomo.environ as pe
 from pyomo.opt import SolverFactory, SolverStatus, TerminationCondition
-from maxg_evals import  prod_quality_cuts,nominal_quality_mp,evaluate_g
+from RsBB_pooling.maxg_evals import  prod_quality_cuts,nominal_quality_mp,evaluate_g
 import numpy as np
 import math
 import pandas as pd
